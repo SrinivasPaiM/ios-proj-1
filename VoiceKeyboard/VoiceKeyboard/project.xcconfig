@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="3.0" toolsVersion="21.0" defaultVersion="21.0">
-    <configurations>
-        <configuration>
-            <option name="SWIFT_VERSION" value="5.9"/>
-        </configuration>
-    </configurations>
-</project>
